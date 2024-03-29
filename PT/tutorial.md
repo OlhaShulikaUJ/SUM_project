@@ -3,7 +3,7 @@
 * graphml file with [city graph](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/Krakow.graphml))
 * [geojson file](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/krk.geojson) with geometries of Krakow's areas
 * [geojson file](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/krk_centroid.geojson) with centroid locations of Krakow's areas
-* [shp file](https://www.interline.io/osm/extracts/) with geometries of preselected areas (https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/Obszary_SUM.shp))
+* [shp file](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/Obszary_SUM.shp) with geometries of preselected areas
 * [csv file](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/demografia_KRK.csv) with demography and address points distribution 
 * [xlsx](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/Krakow_model_OD_matrices.xlsx) file with destinations probabilities according to ODM
 
@@ -15,7 +15,7 @@
 
 # Public Transport queries
 ## Input:
-* csv file with requests [georequests.csv](https://github.com/OlhaShulikaUJ/SUM_project/tree/main/PT/demand_area)
+* csv  with requests [demand_OD_area.csv](https://github.com/OlhaShulikaUJ/SUM_project/tree/main/PT/demand_area)
 * dbf file with OSM network (available e.g. [here](https://www.interline.io/osm/extracts/)
 * zip with GTFS file for the area and date that we query (available e.g. from [gtfs](https://gtfs.ztp.krakow.pl/))
 * both OSM and GTFS file shall be stored in data folder
