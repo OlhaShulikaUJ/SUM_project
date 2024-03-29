@@ -3,6 +3,8 @@
 ## Technology
 The software was implemented using Python programming language and its basic libraries
 ## Description
-### The developed framework based on two main libraries:
+### The developed framework based on two main developed libraries:
 * [Public Transport queries](https://github.com/RafalKucharskiPK/query_PT)
 * [ExMAS](https://github.com/RafalKucharskiPK/ExMAS/tree/master/ExMAS)
+### The developed for Krakow module consist of:
+* [The parameter-free comparison of selected areas ]
