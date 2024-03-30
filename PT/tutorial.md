@@ -16,7 +16,7 @@
 # Public Transport queries
 ## Input:
 * csv  with requests [demand_OD_area.csv](https://github.com/OlhaShulikaUJ/SUM_project/tree/main/PT/demand_area)
-* dbf file with OSM network (available e.g. [here](https://www.interline.io/osm/extracts/)
+* dbf file with OSM network (available e.g. [here](https://www.interline.io/osm/extracts/))
 * zip with GTFS file for the area and date that we query (available e.g. from [gtfs](https://gtfs.ztp.krakow.pl/))
 * both OSM and GTFS file shall be stored in data folder
 
