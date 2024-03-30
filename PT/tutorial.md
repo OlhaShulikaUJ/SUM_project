@@ -1,6 +1,6 @@
 # Demand distribution
 ## Input:
-* graphml file with [city graph](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/Krakow.graphml))
+* graphml file with [city graph](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/Krakow.graphml)
 * [geojson file](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/krk.geojson) with geometries of Krakow's areas
 * [geojson file](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/krk_centroid.geojson) with centroid locations of Krakow's areas
 * [shp file](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/Obszary_SUM.shp) with geometries of preselected areas
