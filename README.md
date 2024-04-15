@@ -13,9 +13,20 @@ The software was implemented using Python programming language and its basic lib
 1) OD 
    * sample origins
    * sample destinations
+     
 2) Demand for PT
-3) Utility of PT for trips from O to D ($U_{PT:O\to \overline{D}}$)
-4) Utility of PT for trips from HUB to D ($U_{PT:HUB\to \overline{D}}$)
-5) ExMAS for all PT users from O to HUB
+   
+3) Utility of PT for trips from O to D:
 
-$U_{SUM}=U_{PT:HUB\to \overline{D}} + \underbrace{\beta _{t}\beta _{s}\left ( t _{t}+ \beta _{w}t _{w}\right)}+ASC$
+            $U_{PT:O\to \overline{D}}$
+
+4) Utility of PT for trips from HUB to D:
+
+            $U_{PT:HUB\to \overline{D}}$
+
+5) ExMAS for all PT users from O to HUB:
+
+          $U_{SUM}=U_{PT:HUB\to \overline{D}} + \underbrace{\beta _{t}\beta _{s}\left ( t _{t}+ \beta _{w}t _{w}\right)}+ASC$
+6) Model Choise
+
+7) Demand for SUM
