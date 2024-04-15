@@ -8,7 +8,7 @@
 * [xlsx](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/Krakow_model_OD_matrices.xlsx) file with destinations probabilities according to ODM
 
 ## Output:
-* csv with requests (origin, destination, time request, etc.) [georequests_O(area)_D.csv](https://github.com/OlhaShulikaUJ/SUM_project/tree/main/PT/georequests)
+* csv with requests (origin, destination, time request, etc.) [georequests_OD.csv](https://github.com/OlhaShulikaUJ/SUM_project/tree/main/PT/georequests)
 
 ## Usage:
 * demand distribution in this [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/demand_distribution.ipynb)
