@@ -10,9 +10,10 @@ The software was implemented using Python programming language and its basic lib
 * [PT_mode](https://github.com/OlhaShulikaUJ/SUM_project/tree/main/PT)
 * [NSM+PT_mode](https://github.com/OlhaShulikaUJ/SUM_project/tree/main/NSM%2BPT)
 ### The roadmap of the current project for the city:
-1) ![OD](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/OD.png) 
+1) OD
    * sample origins
    * sample destinations
+ ![OD](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/OD.png) 
      
 2) Demand for PT
    
