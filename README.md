@@ -22,7 +22,6 @@ $$
  U_{PT:O\to \overline{D}}
 \end{aligned}
 $$
-$U_{PT:O\to \overline{D}}$
 
 4) Utility of PT for trips from HUB to D:
 
