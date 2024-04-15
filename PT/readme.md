@@ -15,13 +15,13 @@
 
 # Public Transport queries
 ## Input:
-* csv  with requests [georequests_O(area)_D.csv](https://github.com/OlhaShulikaUJ/SUM_project/tree/main/PT/georequests)
+* csv  with requests [georequests_OD.csv](https://github.com/OlhaShulikaUJ/SUM_project/tree/main/PT/georequests)
 * dbf file with OSM network (available e.g. [here](https://www.interline.io/osm/extracts/))
 * zip with GTFS file for the area and date that we query (available e.g. from [gtfs](https://gtfs.ztp.krakow.pl/))
 * both OSM and GTFS file shall be stored in data folder
 
 ## Output:
-* csv with trip details (time, transfers, modes, wait and walk times, etc.) [georequests_PT.csv](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/georequests/georequests_O(area10)_D_PT.csv)
+* csv with trip details (time, transfers, modes, wait and walk times, etc.) [georequests_OD_PT.csv](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/georequests/georequests_O(area10)_D_PT.csv)
 
 ## Usage:
 * single trips and visualization in this tutorial [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/tutorial-KRK.ipynb)
