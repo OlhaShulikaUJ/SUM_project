@@ -21,4 +21,4 @@ The software was implemented using Python programming language and its basic lib
 U_{SUM}=U_{PT:HUB\to \overline{D}} + \underbrace{\beta _{t}\cdot \beta _{s} (t_{t}+\beta _{w}t_{w})}+ASC
 $U^s_{i, r_k} = \beta_c (1 - \lambda_s)\lambda l_i + \beta_t \beta_s (\hat{t}_i + \beta_d \hat{t}^p_i) + \varepsilon$
 
-$U_S U M=(1+x)^2$
+$U_SUM=(1+x)^2$
