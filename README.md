@@ -11,11 +11,11 @@ The software was implemented using Python programming language and its basic lib
 * [NSM+PT_mode](https://github.com/OlhaShulikaUJ/SUM_project/tree/main/NSM%2BPT)
 ### The roadmap of the current project for the city:
 1) OD 
-  * sample origins
-  * sample destinations
+   * sample origins
+   * sample destinations
 2) Demand for PT
 3) Utility of PT for trips from O to D (PT:O→D)
 4) Utility of PT for trips from HUB to D (PT:Hub→D)
 5) ExMAS for all PT users from O to HUB
-& U^{ns}_i = \beta_c \lambda l_i + \beta_t t_i \\
-& U^s_{i, r_k} = \beta_c (1 - \lambda_s)\lambda l_i + \beta_t \beta_s (\hat{t}_i + \beta_d \hat{t}^p_i) + \varepsilon
+
+U_{SUM}=U_{PT:HUB\to \overline{D}} + \underbrace{\beta _{t}\cdot \beta _{s} (t_{t}+\beta _{w}t_{w})}+ASC
