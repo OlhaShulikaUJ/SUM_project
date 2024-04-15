@@ -28,7 +28,14 @@ $$
 
 6) ExMAS for all PT users from O to HUB:
 
+$$
+\begin{aligned}
+ U_{SUM}=U_{PT:HUB\to \overline{D}} + \underbrace{\beta _{t}\beta _{s}\left ( t _{t}+ \beta _{w}t _{w}\right)}+ASC
+\end{aligned}
+$$
+
 $U_{SUM}=U_{PT:HUB\to \overline{D}} + \underbrace{\beta _{t}\beta _{s}\left ( t _{t}+ \beta _{w}t _{w}\right)}+ASC$
+
 6) Model Choise
 
 7) Demand for SUM
