@@ -13,6 +13,7 @@ The software was implemented using Python programming language and its basic lib
 1) OD
    * sample origins
    * sample destinations
+     
  ![OD](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/OD.png) 
      
 2) Demand for PT
