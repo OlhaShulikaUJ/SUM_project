@@ -18,7 +18,7 @@ The software was implemented using Python programming language and its basic lib
    
 3) Utility of PT for trips from O to D:
 
-            $U_{PT:O\to \overline{D}}$
+***<p style="text-align: center;">$U_{PT:O\to \overline{D}}$</p>***
 
 4) Utility of PT for trips from HUB to D:
 
