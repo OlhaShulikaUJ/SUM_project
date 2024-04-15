@@ -30,6 +30,6 @@ $$
 \end{aligned}
 $$
 
-6) Model Choise
+6) Model Choice
 
 7) Demand for SUM
