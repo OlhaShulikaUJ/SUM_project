@@ -24,9 +24,7 @@ $$
 \end{aligned}
 $$
 
-5) Utility of PT for trips from HUB to D:
-
-            $U_{PT:HUB\to \overline{D}}$
+4) Utility of PT for trips from HUB to D: $U_{PT:HUB\to \overline{D}}$
 
 6) ExMAS for all PT users from O to HUB:
 
