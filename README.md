@@ -9,7 +9,7 @@ The software was implemented using Python programming language and its basic lib
 ### A module 'The parameter-free comparison of selected areas for Krakow' consist of:
 * [PT_mode](https://github.com/OlhaShulikaUJ/SUM_project/tree/main/PT)
 * [NSM+PT_mode](https://github.com/OlhaShulikaUJ/SUM_project/tree/main/NSM%2BPT)
-The roadmap of the current project for the city:
+### The roadmap of the current project for the city:
 1) OD 
   * sample origins
   * sample destinations
