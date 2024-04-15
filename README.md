@@ -17,8 +17,12 @@ The software was implemented using Python programming language and its basic lib
 2) Demand for PT
    
 3) Utility of PT for trips from O to D:
-
-***<p style="text-align: center;">$U_{PT:O\to \overline{D}}$</p>***
+$$
+\begin{aligned}
+ U_{PT:O\to \overline{D}}
+\end{aligned}
+$$
+$U_{PT:O\to \overline{D}}$
 
 4) Utility of PT for trips from HUB to D:
 
