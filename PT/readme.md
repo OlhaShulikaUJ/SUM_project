@@ -21,7 +21,7 @@
 * both OSM and GTFS file shall be stored in data folder
 
 ## Output:
-* csv with trip details (time, transfers, modes, wait and walk times, etc.) georequests_PT.csv
+* csv with trip details (time, transfers, modes, wait and walk times, etc.) [georequests_PT.csv](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/georequests/georequests_O(area10)_D_PT.csv)
 
 ## Usage:
 * single trips and visualization in this tutorial [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/tutorial-KRK.ipynb)
