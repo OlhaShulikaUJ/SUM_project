@@ -26,7 +26,7 @@ The software was implemented using Python programming language and its basic lib
 
 5) ExMAS for all PT users from O to HUB:
 
-          $U_{SUM}=U_{PT:HUB\to \overline{D}} + \underbrace{\beta _{t}\beta _{s}\left ( t _{t}+ \beta _{w}t _{w}\right)}+ASC$
+$U_{SUM}=U_{PT:HUB\to \overline{D}} + \underbrace{\beta _{t}\beta _{s}\left ( t _{t}+ \beta _{w}t _{w}\right)}+ASC$
 6) Model Choise
 
 7) Demand for SUM
