@@ -25,4 +25,4 @@
 
 ## Usage:
 * single trips and visualization in this tutorial [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/PT_KRK_OD.ipynb)
-* running the OTP server [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/SUM_utility.ipynb)
+* running the OTP server [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/run%20OTP%20server-KRK.ipynb)
