@@ -24,5 +24,5 @@
 * csv with trip details (time, transfers, modes, wait and walk times, etc.) [PT_utility_OD.csv](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/georequests/PT_utility_OD(area10).csv)
 
 ## Usage:
-* single trips and visualization in this tutorial [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/tutorial-KRK.ipynb)
+* single trips and visualization in this tutorial [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/PT_KRK_OD.ipynb)
 * running the OTP server [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/SUM_utility.ipynb)
