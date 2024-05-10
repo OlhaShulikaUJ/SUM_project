@@ -14,5 +14,5 @@
 * csv with KPIs for SUM users [KPI.csv]
 
 ## Usage:
-* single trips and visualization in this tutorial [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM%2BPT/SUM_KRK_OD.ipynb)
+* Utilities, Mode choice, Demand_NSM in this [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM%2BPT/SUM_KRK_OD.ipynb)
 * running the OTP server [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/run%20OTP%20server-KRK.ipynb)
