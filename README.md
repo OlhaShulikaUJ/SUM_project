@@ -31,7 +31,7 @@ $$
 $$
 
 6) Mode Choice
-   * сalculate ASC for the given E(p_sum) for 100 replications
+   * сalculate ASC for the given $E(p_{sum})$ E(p_sum) for 100 replications
    * define the average ASC 
    * recalculate p_sum for ALL travellers
 
