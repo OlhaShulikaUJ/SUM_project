@@ -40,6 +40,7 @@ $$
 
 8) KPIs for NSM
    * ExMAS only for NSM users from O to HUB
+   * assessment
    
 
 
