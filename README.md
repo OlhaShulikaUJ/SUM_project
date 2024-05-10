@@ -31,12 +31,12 @@ $$
 $$
 
 6) Mode Choice
-   * сalculate ASC for the given $E(p_{sum})$ E(p_sum) for 100 replications
+   * сalculate ASC for the given $E(p_{sum})$ for 100 replications
    * define the average ASC 
-   * recalculate p_sum for ALL travellers
+   * recalculate $p_{sum}$ for ALL travellers
 
 7) Demand for SUM
-   * count a number of travellers with probability Psum>0.5
+   * count a number of travellers with probability $p_{sum}>0.5$
 
 8) KPIs for NSM
    * ExMAS for NSM users from O to HUB
