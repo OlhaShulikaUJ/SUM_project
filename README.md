@@ -38,8 +38,8 @@ $$
 7) Demand for SUM
    * count a number of travellers with probability $p_{sum}>0.5$
 
-8) KPIs for NSM
-   * ExMAS only for NSM users from O to HUB
+8) KPIs for SUM
+   * ExMAS only for SUM users from O to HUB
    * assessment
    
 
