@@ -31,5 +31,9 @@ $$
 $$
 
 6) Mode Choice
-
+   * сalculate ASC for the given E(p_sum) for 100 replications
+   * define the average ASC 
+   * recalculate p_sum for ALL travellers
+   
 7) Demand for SUM
+  * count a number of travellers with probability Psum>0.5
