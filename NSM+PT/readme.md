@@ -14,6 +14,6 @@
 * csv with KPIs for SUM users [results](https://github.com/anniutina/SUM/tree/main/results)
 
 ## Usage:
-* Utilities, Mode choice definitions in this [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM%2BPT/SUM_KRK_OD.ipynb](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM%2BPT/sum_main.ipynb)). Source of code is [here] https://github.com/anniutina/SUM/tree/main)
-* Comparison of the areas: Bronowice and Skotniki in this [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM%2BPT/sum_results.ipynb). Source of code is [here] (https://github.com/anniutina/SUM/tree/main)
+* Utilities, Mode choice definitions in this [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM%2BPT/SUM_KRK_OD.ipynb](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM%2BPT/sum_main.ipynb)). Source of code is [here](https://github.com/anniutina/SUM/tree/main)
+* Comparison of the areas: Bronowice and Skotniki in this [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM%2BPT/sum_results.ipynb). Source of code is [here](https://github.com/anniutina/SUM/tree/main)
 * running the OTP server [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/run%20OTP%20server-KRK.ipynb)
