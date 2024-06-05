@@ -14,5 +14,5 @@
 * csv with KPIs for SUM users [results](https://github.com/anniutina/SUM/tree/main/results)
 
 ## Usage:
-* Utilities, Mode choice, Demand_NSM definitions in this [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM%2BPT/SUM_KRK_OD.ipynb)
+* Utilities, Mode choice definitions in this [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM%2BPT/SUM_KRK_OD.ipynb](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM%2BPT/sum_main.ipynb))
 * running the OTP server [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/run%20OTP%20server-KRK.ipynb)
