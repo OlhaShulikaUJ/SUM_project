@@ -1,6 +1,6 @@
 # NSM+PT
 ## Input:
-* csv with requests [georequests_OD.csv](https://github.com/OlhaShulikaUJ/SUM_project/tree/main/PT/georequests)
+* [csv file](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/data/demografia_KRK.csv) with demography and address points distribution 
   
 * graphml file with [city graph](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/data/Krakow.graphml)
 * the [default](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM%2BPT/default_SUM.json) file with configurations
