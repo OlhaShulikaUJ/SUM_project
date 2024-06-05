@@ -36,7 +36,7 @@ $$
    * recalculate $p_{sum}$ for all PT users
 
 7) Demand for SUM
-   * count a number of travellers with probability $p_{random}<p_{sum}$
+   * count a number of travellers with probability $p_{random} <p_{sum}$
 
 8) KPIs for SUM
    * ExMAS only for SUM users from O to HUB
