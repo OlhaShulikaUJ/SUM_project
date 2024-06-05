@@ -11,7 +11,8 @@
 * both OSM and GTFS file shall be stored in data folder
 
 ## Output:
-* [results](https://github.com/anniutina/SUM/tree/main/results)
+* general [results](https://github.com/anniutina/SUM/tree/main/results)
+* the choise of [hubs]() for Bronowice
 
 ## Usage:
 * Utilities, Mode choice definitions in this [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM%2BPT/SUM_KRK_OD.ipynb](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM%2BPT/sum_main.ipynb)). Full version is [here](https://github.com/anniutina/SUM/tree/main)
