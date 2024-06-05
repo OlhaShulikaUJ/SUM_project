@@ -31,7 +31,7 @@ $$
 $$
 
 6) Mode Choice
-   * сalculate ASC for the given $E(p_{sum})$ for 100 replications
+   * сalculate ASC for the given $E(p_{sum})$ for n replications
    * define the average ASC 
    * recalculate $p_{sum}$ for all PT users
 
