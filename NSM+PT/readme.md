@@ -11,7 +11,7 @@
 * both OSM and GTFS file shall be stored in data folder
 
 ## Output:
-* csv with KPIs for SUM users [KPI.csv]
+* csv with KPIs for SUM users [results](https://github.com/anniutina/SUM/tree/main/results)
 
 ## Usage:
 * Utilities, Mode choice, Demand_NSM definitions in this [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM%2BPT/SUM_KRK_OD.ipynb)
