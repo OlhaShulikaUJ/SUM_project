@@ -10,4 +10,4 @@
 * OSM file shall be stored in data folder
 
 ## Output:
-* [results](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM/area%203-Skotniki.ipynb) the feeder service performance assessment for Area 3 with two hubs
+* [results](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM/area%203-Skotniki.ipynb) of the assessment of feeder service performance, using Area 3 with two hubs as an example.
