@@ -1,6 +1,6 @@
 # NSM (on-demand pooled transit feeder service)
 ## Input:
-* [csv file](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/data/demografia_KRK (example data format).csv) with demography and address points distribution 
+* [csv file](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/data/demografia_KRK_example.csv) with demography and address points distribution 
   
 * graphml file with [city graph](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/data/Krakow.graphml)
 * the [default](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM%2BPT/default_SUM.json) file with configurations
