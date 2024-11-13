@@ -1,4 +1,4 @@
-# NSM+PT
+# NSM (on-demand pooled transit feeder service)
 ## Input:
 * [csv file](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/data/demografia_KRK.csv) with demography and address points distribution 
   
