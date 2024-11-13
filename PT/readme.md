@@ -4,7 +4,7 @@
 * [geojson file](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/data/krk.geojson) with geometries of Krakow's areas
 * [geojson file](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/data/krk_centroid.geojson) with centroid locations of Krakow's areas
 * [shp file](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/data/Obszary_SUM.shp) with geometries of preselected areas
-* [csv file](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/data/demografia_KRK.csv) with demography and address points distribution 
+* [csv file](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/data/demografia_KRK_example.csv) with demography and address points distribution 
 * [xlsx](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/data/Krakow_model_OD_matrices.xlsx) file with destinations probabilities according to ODM
 
 ## Output:
