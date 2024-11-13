@@ -3,7 +3,7 @@
 * [csv file](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/data/demografia_KRK_example.csv) with demography and address points distribution 
   
 * graphml file with [city graph](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/data/Krakow.graphml)
-* the [default](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM%2BPT/default_SUM.json) file with configurations
+* the [default](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM/default_SUM.json) file with configurations
 * csv with the [list](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM%2BPT/list_of_hubs.csv) of preselected hubs coordinates
   
 * dbf file with OSM network (available e.g. [here](https://www.interline.io/osm/extracts/))
