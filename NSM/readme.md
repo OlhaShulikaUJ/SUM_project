@@ -1,20 +1,13 @@
 # NSM (on-demand pooled transit feeder service)
 ## Input:
-* [csv file](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/data/demografia_KRK_example.csv) with demography and address points distribution 
-  
+
 * graphml file with [city graph](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/data/Krakow.graphml)
 * the [default](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM/default_SUM.json) file with configurations
-* csv with the [list] of preselected hubs coordinates
-  
+* [csv file](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/data/demografia_KRK_example.csv) with demography and address points distribution 
+* [shp file](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM/Obszary_SUM.shp) with a set of candidate areas
+* csv file with the [list] of preselected hubs coordinates
 * dbf file with OSM network (available e.g. [here](https://www.interline.io/osm/extracts/))
-* zip with GTFS file for the area and date that we query (available e.g. from [gtfs](https://gtfs.ztp.krakow.pl/))
-* both OSM and GTFS file shall be stored in data folder
+* OSM file shall be stored in data folder
 
 ## Output:
-* general [results](https://github.com/anniutina/SUM/tree/main/results)
-* the choise of [hub](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM%2BPT/Hub_choice_Bronowice.ipynb) for Bronowice
-
-## Usage:
-* Utilities, Mode choice definitions in this [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM%2BPT/SUM_KRK_OD.ipynb](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM%2BPT/sum_main.ipynb)). Full version is [here](https://github.com/anniutina/SUM/tree/main)
-* Comparison of the areas: Bronowice and Skotniki in this [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM%2BPT/sum_results.ipynb). Full version is [here](https://github.com/anniutina/SUM/tree/main)
-* running the OTP server [notebook](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/PT/run%20OTP%20server-KRK.ipynb)
+* [results](https://github.com/OlhaShulikaUJ/SUM_project/blob/main/NSM/area%203-Skotniki.ipynb) the feeder service performance assessment for Area 3 with two hubs
