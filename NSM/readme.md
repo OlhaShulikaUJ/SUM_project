@@ -65,11 +65,10 @@ Once the files are ready and OTP is running, use the following steps in a Python
 
 4. Run the main simulation:
    ```python
-   from src import functions as fncs
    results = fncs.simulate_MSA(gdf_areas, df_demo, gdf_centroid,
                                 od, od_probs, hubs, inData, params,
                                 "http://localhost:8080/otp/routers/default/plan",
-                                degree, N, max_iter, ASC, results_period=20)
+                                degree, N, max_iter, ASC, results_period)
    ```
 
 5. Save output:
@@ -120,7 +119,7 @@ SimFLEX includes scripts to produce:
 - KPI histograms by area
 - MSA convergence plots over 30 iterations
 
-Use visualization tools (e.g., `seaborn`, `matplotlib`) to compare area performance and conduct sensitivity analysis to interpret which areas benefit most from feeder deployment and under what utility assumptions.
+Based on obtained results compare feeder service performance for each preselected and conduct sensitivity analysis to interpret which areas benefit most from feeder deployment and under what utility assumptions.
 
 ---
 
