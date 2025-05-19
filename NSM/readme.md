@@ -119,7 +119,7 @@ SimFLEX includes scripts to produce:
 - KPI histograms by area
 - MSA convergence plots over 30 iterations
 
-Based on obtained results compare feeder service performance for each preselected area and conduct sensitivity analysis to interpret which areas benefit most from feeder deployment.
+Based on obtained results compare feeder service performance for each preselected area to interpret which areas benefit most from feeder deployment and conduct sensitivity analysis.
 
 ---
 
