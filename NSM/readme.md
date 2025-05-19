@@ -1,10 +1,10 @@
 ## 🚀 How to Use It
 
-**SimFLEX** (Simulation Framework for Feeder Location Evaluation) is an open-source simulation-optimization tool developed in Python to support data-driven decisions on deploying on-demand feeder bus services. It integrates travel demand modeling, utility-based discrete choice, and performance assessment using the following components: `SUM-main`, `ExMAS`, `MSA`, `KPI`, and the accessibility sensitivity coefficient (ASC). This subsection outlines how to install, configure, and use SimFLEX for urban transport scenario evaluation.
+**SimFLEX** (Simulation Framework for Feeder Location Evaluation) is an open-source simulation-optimization tool developed in Python to support data-driven decisions on deploying on-demand feeder bus services. This subsection outlines how to install, configure, and use SimFLEX for urban transport scenario evaluation.
 
 ---
 
-### 🛠️ Installation
+### 🛠️ Getting Started
 
 1. Ensure you have **Python 3.8+** installed.
 2. Clone the repository:
